@@ -1,8 +1,8 @@
 # TrackerLA
 Lorentz Angle Calculation for tracker Si Strip 
-------------------------------------------------
+-----------------------------------------------------------------------------
 Preparation of ntuple
--------------------------------------
+----------------------------------------------------------------------------
 -cmsrel CMSSW_8_0_5
 
 -cd CMSSW_8_0_5/src
@@ -33,7 +33,7 @@ Preparation of ntuple
 
 
 Analysis
------------------------
+-------------------------------------------------------------------------
 I prefer a different CMSSW, you can use the same one
 
 cmsrel CMSSW_8_0_12
@@ -51,6 +51,7 @@ add these in your header files
 
 
 
-
+---------------------------------------------------------------------
 
 or you can have my file
+git clone https://github.com/alibordi/TrackerLA.git
