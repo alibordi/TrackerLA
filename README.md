@@ -26,7 +26,7 @@ Preparation of ntuple
  
  - 'keep *_shallowTracks_tsostrackmulti_*'
  
- -git clone https://gist.github.com/mverzett/d6bde8ed6e6dec8a5ff4.gi
+ -git clone https://gist.github.com/mverzett/d6bde8ed6e6dec8a5ff4.git
  
  -cmsRun lantuples.py
 
